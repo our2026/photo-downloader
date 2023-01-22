@@ -29,8 +29,8 @@ h1{
 
 }
 .innerbox{
-    width: 600px;
-    height: 350px;
+    width:auto;
+    height:auto;
     background-image: url("bg.jpeg");
     box-sizing: border-box;
     border-radius: 20px;
